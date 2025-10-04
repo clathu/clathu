@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @clathu
-- 👀 I’m interested in Programmning and Development of all kinds and Electronics
-- 🌱 I’m currently learning Full-Stack Development and Electronics
+- 👀 I’m interested in Programmning and Development of all kinds
+- 🌱 I’m currently learning Python and C++
 - 💞️ I’m not looking to collaborate
-- 📫 How to reach me drewpisc@outlook.com
-- 😄 Pronouns: he/him I don't really care though
+- 📫 How to reach me: clathu@outlook.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I have 2 dogs
 
 <!---
